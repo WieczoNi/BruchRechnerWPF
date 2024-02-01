@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruchRechnerWPF", "BruchRechnerWPF\BruchRechnerWPF.csproj", "{B2FD293F-6B58-4C0F-9EC2-3852A4C0AC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FD293F-6B58-4C0F-9EC2-3852A4C0AC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FD293F-6B58-4C0F-9EC2-3852A4C0AC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FD293F-6B58-4C0F-9EC2-3852A4C0AC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FD293F-6B58-4C0F-9EC2-3852A4C0AC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE104C0-EB81-4D99-A933-9505B699EDB1}
+	EndGlobalSection
+EndGlobal
